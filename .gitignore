@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local state
+config.json
+silence-filler.log
+silence-filler.log.*
+
+# Editors
+.vscode/
+.idea/

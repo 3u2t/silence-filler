@@ -1,0 +1,6 @@
+pycaw>=20260927
+comtypes>=1.4.11
+psutil>=5.9
+winsdk>=1.0.0b10
+pystray>=0.19.5
+pillow>=10.0
