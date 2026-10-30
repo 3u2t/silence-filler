@@ -156,3 +156,7 @@ A few details that matter in practice:
 1. Quit from the tray menu.
 2. Remove the autostart entry (see above).
 3. Delete the folder.
+
+## License
+
+[PolyForm Noncommercial License 1.0.0](LICENSE). Use it, modify it, share it. Just don't sell it or use it commercially.
